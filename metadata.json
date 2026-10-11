@@ -1,0 +1,6 @@
+{
+  "name": "Campus Cart",
+  "description": "Campus Cart — A college-exclusive marketplace where students buy, sell, and exchange academic materials at affordable prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
